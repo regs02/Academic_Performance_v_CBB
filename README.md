@@ -1,4 +1,4 @@
-# **Academic_Performance_v_CBB**
+# **CBB Statistics**
 Data Science Final Project
 
 ### Hypothesis
