@@ -7,7 +7,6 @@ Data Science Final Project
 
 ### Datasets
 - https://www.kaggle.com/datasets/andrewsundberg/college-basketball-dataset?select=cbb.csv
-- https://www.kaggle.com/datasets/ncaa/academic-scores
 
 ### Learning Model
 - KMeans?
